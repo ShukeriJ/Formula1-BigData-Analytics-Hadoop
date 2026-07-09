@@ -230,47 +230,71 @@ Predict Formula One race winners using:
 
 # 📷 Dashboard Preview
 
-## 🏆 Hive + Zeppelin Dashboard
+---
 
-### Top Formula One Drivers
+## 🏆 Hive Analytics
+
+### Top 10 Formula One Drivers
 
 ![Top Drivers](screenshots/hive_1_top10_driver.png)
 
 ---
 
-![Top Drivers](screenshots/zeppelin_1_top_10_driver)
+### Top Constructors
+
+![Constructors](screenshots/hive_2_top_constructor_all_time.png)
 
 ---
 
-### Championship Growth (1950–2024)
+### Championship Growth
 
-![Championship Growth](screenshots/analytics07_championship_growth.png)
+![Growth](screenshots/hive_7_growth_f1_over_time_1.png)
 
 ---
 
-## 🐍 Python Advanced Analytics
+## 📊 Zeppelin Dashboard
+
+### Executive Dashboard
+
+![Zeppelin](screenshots/zeppelin_15_exec_summary_1.png)
+
+---
+
+### Driver Efficiency
+
+![Efficiency](screenshots/zeppelin_8_driver_efficiency.png)
+
+---
+
+## 🤖 Python Analytics
 
 ### Driver Performance Trend
 
-![Driver Trend](screenshots/python_driver_trend.png)
+![Trend](screenshots/python_2_driver_performance_trend_2.png)
 
 ---
 
-### Constructor Performance Evolution
+### Correlation Analysis
 
-![Constructor Trend](screenshots/python_constructor_trend.png)
+![Correlation](screenshots/python_4_correlation_analysis.png)
 
 ---
 
 ### Driver Clustering (K-Means)
 
-![KMeans](screenshots/python_kmeans.png)
+![KMeans](screenshots/python_6_driver_clustering_kmeans.png)
 
 ---
 
-### Random Forest Feature Importance
+### Random Forest
 
-![Random Forest](screenshots/python_random_forest.png)
+![Random Forest](screenshots/python_7_predict_race_winner_random_forest.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/python_7_random_forest_confusion_matrix.png)
 
 ---
 
