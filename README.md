@@ -230,18 +230,43 @@ Predict Formula One race winners using:
 
 # 📷 Dashboard Preview
 
-The project contains interactive dashboards developed using:
+## 🏆 Hive + Zeppelin Dashboard
 
-- Apache Zeppelin
-- Plotly
+### Top Formula One Drivers
 
-Example visualisations include:
+![Top Drivers](screenshots/analytics01_top_drivers.png)
 
-- Driver Performance Trends
-- Constructor Evolution
-- Correlation Heatmaps
-- Pit Stop Strategy Analysis
-- Machine Learning Visualisations
+---
+
+### Championship Growth (1950–2024)
+
+![Championship Growth](screenshots/analytics07_championship_growth.png)
+
+---
+
+## 🐍 Python Advanced Analytics
+
+### Driver Performance Trend
+
+![Driver Trend](screenshots/python_driver_trend.png)
+
+---
+
+### Constructor Performance Evolution
+
+![Constructor Trend](screenshots/python_constructor_trend.png)
+
+---
+
+### Driver Clustering (K-Means)
+
+![KMeans](screenshots/python_kmeans.png)
+
+---
+
+### Random Forest Feature Importance
+
+![Random Forest](screenshots/python_random_forest.png)
 
 ---
 
