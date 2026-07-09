@@ -235,6 +235,7 @@ Predict Formula One race winners using:
 ### Top Formula One Drivers
 
 ![Top Drivers](screenshots/hive_1_top10_driver.png)
+![Top Drivers](screenshots/zeppelin_1_top_10_driver)
 
 ---
 
